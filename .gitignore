@@ -1,0 +1,13 @@
+### IntelliJ IDEA ###
+out/
+
+### ignore input and output files ###
+src/ExonSkipping/data/Homo_sapiens.GRCh37.67.gtf
+src/ExonSkipping/data/Homo_sapiens.GRCh37.75.gtf
+
+src/ReadSimulator/data/Homo_sapiens.GRCh37.75.gtf
+src/ReadSimulator/data/Homo_sapiens.GRCh37.75.dna.toplevel.fa
+src/ReadSimulator/output/
+
+
+

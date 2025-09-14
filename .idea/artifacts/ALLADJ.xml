@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ALLADJ">
+    <output-path>$PROJECT_DIR$/out/artifacts/ALLADJ</output-path>
+    <root id="archive" name="GoBi-Toolbox.jar">
+      <element id="module-output" name="GoBi-Toolbox" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/anaptecs/jeaf/owalibs/org.apache.commons.cli/4.3.1/org.apache.commons.cli-4.3.1.jar" path-in-jar="/" />
+      <element id="module-source" name="GoBi-Toolbox" />
+    </root>
+  </artifact>
+</component>
