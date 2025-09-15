@@ -9,7 +9,7 @@ This project consists of **two main components** for genomic data processing and
 **Goal:**  
 The main objective of this program is to identify **exon-skipping splicing events (ES-SE)** by processing **Gene Transfer Format (GTF)** files.
 
-**Arguments::**
+**Arguments:**
 
 -gtf src/ExonSkipping/data/Homo_sapiens.GRCh37.67.gtf  
 -o src/ExonSkipping/data/output.txt
